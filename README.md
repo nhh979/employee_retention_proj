@@ -1,5 +1,5 @@
 # employee_retention_proj
-This is the capstone assignment of Google Advance Data Analytics on Coursera.
+This is the capstone assignment of Google Advance Data Analytics on Coursera asking us to predict employees likely to quit the company.
 
 ## The scenario and problem
 Analyze the the data collected by the HP department at Salifort Motors and build a model to predict employees who are likely to leave the company.
